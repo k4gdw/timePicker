@@ -1,11 +1,11 @@
 div.time-picker {
   position: absolute;
-  height: 191px;
+  height: 100px;
   width:4em; /* needed for IE */
   overflow: auto;
   background: #fff;
   border: 1px solid #aaa;
-  z-index: 99;
+  z-index: 5000;
   margin: 0;
 }
 div.time-picker-12hours {
